@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="enter_your_name">Pon tu nombre</string>
+    <string name="topping">RELLENO</string>
+    <string name="whipped_cream">Nata Montada</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">CANTIDAD</string>
+    <string name="order_summary">Resumen del pedido</string>
+    <string name="order">PEDIR</string>
+    <string name="text_header">Mensaje recibido</string>
+</resources>

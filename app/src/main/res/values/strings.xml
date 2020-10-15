@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="topping">TOPPING</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="order">Order</string>
+    <string name="text_header">Message Recieved</string>
+</resources>
