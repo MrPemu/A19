@@ -9,4 +9,15 @@
     <string name="order_summary">Resumen del pedido</string>
     <string name="order">PEDIR</string>
     <string name="text_header">Mensaje recibido</string>
+    <string name="enter_your_email">Pon tu correo</string>
+    <string name="confirmation">¿Es correcto?</string>
+    <string name="correction">Corrige tu pedido</string>
+    <string name="affair">Confirmación de Pedido</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="youordered">, pediste </string>
+    <string name="coffeeswith"> cafés con </string>
+    <string name="and"> y </string>
+    <string name="totalprice">El precio total es </string>
+    <string name="youremail">Tu email es</string>
 </resources>

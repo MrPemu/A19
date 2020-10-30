@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Hello World</string>
     <string name="enter_your_name">Enter your name</string>
@@ -8,4 +9,15 @@
     <string name="order_summary">Order Summary</string>
     <string name="order">Order</string>
     <string name="text_header">Message Recieved</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="confirmation">Is correct?</string>
+    <string name="correction">Correct your order</string>
+    <string name="affair">Order Confirmation</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="youordered">, you ordered </string>
+    <string name="coffeeswith"> coffees with </string>
+    <string name="and"> and </string>
+    <string name="totalprice">Total price is </string>
+    <string name="youremail">Your email is</string>
 </resources>

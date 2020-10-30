@@ -4,9 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.TextView;
-
-import org.w3c.dom.Text;
 
 public class SecondActivity extends AppCompatActivity {
 
@@ -20,5 +19,17 @@ public class SecondActivity extends AppCompatActivity {
 
         TextView texto = findViewById(R.id.text_header);
         texto.setText(text);
+    }
+
+    public void yes(View view) {
+        Intent i = new Intent();
+        setResult(RESULT_OK, i);
+        finish();
+    }
+
+    public void no(View view) {
+        Intent i = new Intent();
+        setResult(RESULT_CANCELED, i);
+        finish();
     }
 }
